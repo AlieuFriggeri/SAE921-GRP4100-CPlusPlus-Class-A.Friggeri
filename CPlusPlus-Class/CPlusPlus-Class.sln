@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "List Exercise 3.3", "List E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Formative Roulette Russe", "Formative Roulette Russe\Formative Roulette Russe.vcxproj", "{B248BCD2-82AA-4158-8B37-5E2374F13597}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Formative Annuaire Téléphonique (Map)", "Formative Annuaire Téléphonique (Map)\Formative Annuaire Téléphonique (Map).vcxproj", "{69A3C89D-2601-4932-967C-0B6095415145}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{B248BCD2-82AA-4158-8B37-5E2374F13597}.Release|x64.Build.0 = Release|x64
 		{B248BCD2-82AA-4158-8B37-5E2374F13597}.Release|x86.ActiveCfg = Release|Win32
 		{B248BCD2-82AA-4158-8B37-5E2374F13597}.Release|x86.Build.0 = Release|Win32
+		{69A3C89D-2601-4932-967C-0B6095415145}.Debug|x64.ActiveCfg = Debug|x64
+		{69A3C89D-2601-4932-967C-0B6095415145}.Debug|x64.Build.0 = Debug|x64
+		{69A3C89D-2601-4932-967C-0B6095415145}.Debug|x86.ActiveCfg = Debug|Win32
+		{69A3C89D-2601-4932-967C-0B6095415145}.Debug|x86.Build.0 = Debug|Win32
+		{69A3C89D-2601-4932-967C-0B6095415145}.Release|x64.ActiveCfg = Release|x64
+		{69A3C89D-2601-4932-967C-0B6095415145}.Release|x64.Build.0 = Release|x64
+		{69A3C89D-2601-4932-967C-0B6095415145}.Release|x86.ActiveCfg = Release|Win32
+		{69A3C89D-2601-4932-967C-0B6095415145}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
