@@ -11,7 +11,7 @@
 
 int main()
 {
-     Arbre::stockFruits_ = 0;
+    int stockFruits;
 
     srand (time(NULL));
 
@@ -27,7 +27,7 @@ int main()
 
 
 
-
+    
 
 
 
@@ -35,9 +35,9 @@ int main()
 
         return 0;
     
+        poirier.getNbFruits(stockFruits);
 
-
-    stockFruits.displayStock();
+   
     
     
 

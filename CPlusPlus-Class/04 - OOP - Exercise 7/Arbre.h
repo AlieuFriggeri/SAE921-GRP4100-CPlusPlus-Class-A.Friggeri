@@ -22,7 +22,7 @@ public:
 	
 	int couperArbre();
 
-
+	int getNbFruits(int stockFruits);
 protected:
 
 	int poidFruits_;

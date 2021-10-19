@@ -42,4 +42,10 @@ int Arbre::couperArbre()
 	return 0;
 }
 
+int Arbre::getNbFruits(int stockFruits)
+{
+	stockFruits += nbFruits_;
+	return nbFruits_;
+}
+
 
